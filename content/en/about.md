@@ -4,21 +4,21 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi 2077 / justlovemaki
+#### Hey there! I'm He Xi 2077 / justlovemaki 👋
 
-> Ten years of code, fingers numb; a heavy heart, words unspoken.
-> Then, the AI thunder rolls; I swear to wrestle with the sky.
+> A decade of code, fingertips sometimes chill, yet a restless spirit yearned.
+> Then AI's revolution roared like thunder! Time to conquer the digital skies.
 
-#### 💡 My Coding Philosophy
+#### My Code Philosophy 💡
 
-> Technology serves the people.
+> Technology: It's all about serving the people. 🌐
 
-#### ⭐ Showcase Projects
+#### Featured Projects ✨
 
-*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: An AI image generation script powered by Cloudflare Workers.
-*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This is a content aggregation and generation platform driven by Cloudflare Workers. It curates daily updates in the AI field for you, including industry news, popular open-source projects, cutting-edge academic papers, and social media commentary from tech influencers.
-*   Check out my [GitHub](https://github.com/justlovemaki) for more project details!
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This project is an AI image generation script built using Cloudflare Workers. 🎨
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This robust platform, powered by Cloudflare Workers, excels at content aggregation and generation. Daily, it curates the hottest AI trends for you, including industry news, popular open-source projects, cutting-edge academic papers, and insights from top tech influencers across social media. 🚀
+*   **GitHub**: Want more project details? You'll find 'em all on my [GitHub](https://github.com/justlovemaki)! 😉
 
-#### 🔍 Current Explorations
+#### What I'm Exploring Now 🔍
 
-I'm super interested in LLM applications and website SEO, and I'm actively diving deep into learning and practice.
+LLM Applications and Website SEO: I'm seriously stoked about these topics and actively diving deep into learning and hands-on practice! 🧠💡
