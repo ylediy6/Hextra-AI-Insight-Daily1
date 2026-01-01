@@ -4,50 +4,51 @@ type: page
 sidebar:
   exclude: true
 ---
-# Terms of Service
 
-*Effective Date: June 1, 2025*
+# 服务条款
+
+*生效日期：2025年6月1日*
 
 ---
 
-**ai.hubtoday** welcomes you! Before you dive in and use our services, please take a moment to carefully read these Terms of Service. By accessing or using **ai.hubtoday**, you're essentially saying "I agree" to everything here. 😉
+欢迎访问 **ai.hubtoday**（以下简称“**本站**”或“**我们**”）。请在使用本站服务之前，仔细阅读以下服务条款。您访问或使用本站即表示您同意并接受本条款。
 
-## 1. Our Services Unpacked
-So, **what do our services offer**? We're all about giving our users a sweet deal with paid subscription content and exclusive membership services. Think blog posts, special resources, e-books, and even community vibes! Just a heads-up: some of the extra cool stuff is only for our subscribed members. ✨
+## 1. 服务简介
+本站为用户提供付费订阅内容和会员服务，包括但不限于博客文章、专属资源、电子书、社区互动等。部分内容仅限订阅用户访问。
 
-## 2. User Accounts & Registration 🔐
-- **To register an account**, users simply need a valid email address and a solid password. Easy peasy!
-- **Your account** is your responsibility! You're in charge of its security and everything that happens under it. **Absolutely NO** transferring or sharing your account, got it?
-- **If you break the rules**, know that we've got the right to **pause or even terminate** your account. Let's keep things fair! 🙏
+## 2. 用户注册与账户
+- 用户需提供有效的电子邮件地址和设置密码以注册账户。
+- 用户应对其账户的安全性和所有活动负责，**禁止**将账户转让或共享。
+- 本站有权在用户违反本条款的情况下，**暂停或终止**其账户。
 
-## 3. Paid Subscription Services 💸
-- **Our subscription services** are super straightforward: you can opt for monthly or annual billing, and all the fees are clearly laid out for you on the checkout page. No hidden surprises here!
-- **For payments**, we keep things secure! All transactions go through awesome third-party payment platforms like Stripe or PayPal. We **never** store your payment info on our end. 🔒
-- **Your subscription** is set up for automatic renewal, which means seamless access! Just remember to cancel before your current billing cycle ends if you don't want it to renew. Easy peasy.
-- **Our 14-Day Refund Policy** is pretty sweet for first-timers! If you're not totally thrilled with our service within 14 days of your initial purchase, you can snag a full refund. Just shoot us an email (find it at the end of these terms!) and tell us why you're leaving. Heads up: this is a one-time deal per user. After 14 days, or if it's not your first rodeo, payments are typically **non-refundable**, unless the law says otherwise. No hard feelings! 😉
+## 3. 付费订阅服务
+- 订阅服务基于月度/年度计费，费用在结算页面明示。
+- 所有付款通过第三方支付平台（如 Stripe、PayPal）完成，本站不存储您的支付信息。
+- 订阅将**自动续费**，除非您在当前计费周期结束前取消。
+- **14天退款政策**：首次订阅服务的用户，自购买之日起14天内，如对服务不满意，可申请全额退款。请通过本条款末尾提供的联系邮箱与我们联系并说明退款原因。每位用户仅限一次退款机会。超过14天或非首次订阅的，除非法律强制规定，付款后**不予退款**。
 
-## 4. Content Usage & Intellectual Property 💡
-- **Our original content**? It's all **copyrighted by us (hubtoday)**! That means no copying, reprinting, or using it for commercial purposes without our explicit permission. Let's respect the creators! ✍️
-- **As a user**, you get awesome access – but it's a **non-exclusive, non-transferable right** purely for your personal learning and reading pleasure. Think of it as your personal library card!
-- **Need to use our content commercially** or for a big-time citation? No sweat! Just get in touch with us to snag the proper authorization. We're usually happy to help out. 😊
+## 4. 内容使用与知识产权
+- 所有原创内容**版权归本站 (hubtoday) 所有**，未经授权不得复制、转载或用于商业用途。
+- 用户仅获得**非排他、不可转让的访问权**，用于个人学习和阅读。
+- 如需商业用途或大量引用，请联系本站获取授权。
 
-## 5. User Conduct Guidelines 🚫
-- **Here's what we absolutely CANNOT tolerate**: Don't upload, post, or spread any content that's illegal, harassing, false, offensive, or steps on anyone else's rights. Let's keep it clean and respectful, folks!
-- **And a big NO-NO**: Please don't try to bulk download, scrape, or crack our member-exclusive content using any technical trickery. That's just not cool. 🙅‍♀️
-- **If rules are broken**, we reserve the right to yank down any inappropriate content and **ban users** who can't play nice. Fair warning!
+## 5. 用户行为规范
+- **禁止**上传、发布或传播任何非法、骚扰、虚假、攻击性、侵犯他人权利的内容。
+- **禁止**通过技术手段批量下载、抓取、破解会员内容。
+- 本站有权移除不当内容并**封禁违规用户**。
 
-## 6. Service Changes & Interruptions 🛠️
-- **We might tweak things sometimes**: We totally reserve the right to change, pause, or even stop parts or all of our services at any time, and we might not always be able to give you a heads-up. It's just how the tech world rolls!
-- **When things go sideways (rarely, we hope!)**: If, by some chance, you can't access content temporarily because of stuff like acts of God, server hiccups, or third-party service outages, please know that we **won't be on the hook for any compensation**. We'll always do our best to get things back up and running pronto, though! 🤞
+## 6. 服务变更与中断
+- 我们保留随时更改、暂停或终止部分或全部服务的权利，恕不另行通知。
+- 如因不可抗力、服务器故障或第三方服务中断导致内容暂时无法访问，本站**不承担赔偿责任**。
 
-## 7. Disclaimer – Read This! 🚨
-- **Heads up on our info**: What we share here is purely for your reference and general knowledge. It's **definitely NOT** professional advice of any kind (think financial, legal, medical – you name it!). Always consult a pro for that! 🧑‍💼
-- **About any losses**: If something goes wrong and you experience any direct or indirect losses from using our content or services, we're super sorry, but **we can't be held responsible**. Just wanted to make that crystal clear!
+## 7. 免责声明
+- 本站提供的信息仅供参考，**不构成**任何专业建议（如财务、法律、医疗等）。
+- 对于用户因使用本站内容或服务所产生的任何直接或间接损失，本站**概不负责**。
 
-## 8. Governing Law & Dispute Resolution ⚖️
-- **When it comes to the law**: These Terms of Service are all about the awesome laws of the State of California, USA! We'll interpret them according to California law, without worrying about those tricky conflict-of-law principles. So Cal for the win! 🌴
-- **Got a dispute?**: If anything ever pops up related to these terms, let's first try to sort it out friendly-style through negotiation. If we just can't see eye-to-eye, you agree that any beef will be settled by the courts in Santa Clara County, California. Fingers crossed we never get there! 🤞
+## 8. 法律适用
+- 本服务条款适用美国加利福尼亚州法律，并按其解释，不考虑法律冲突原则。
+- 因本条款引起的或与本条款相关的任何争议，双方应首先友好协商解决；若协商未果，您同意提交加利福尼亚州圣克拉拉县具有管辖权的法院解决。
 
-## 9. Get In Touch! 💌
-- **Got questions** about any of these terms? No problem at all! Just hit us up via email:
-- 📧 **Email**: [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)
+## 9. 联系方式
+- 如对本条款有任何疑问，请通过以下方式联系我们：
+- 📧 **邮箱**： [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)
